@@ -3,7 +3,7 @@ layout: post
 title:  "La cabaña y el pequeño bosque"
 author: hernan
 categories: [ recuerdo, storytime ]
-image: assets/images/17.jpg
+image: assets/images/6.jpg
 ---
 En sus mejores años de La Cabaña de Barraco, yo era un crío. Cada vez que la visitaba era para distrutar de alguna fiesta de cumpleaños.
 
