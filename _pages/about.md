@@ -7,4 +7,4 @@ image: assets/images/9.jpg
 imageshadow: true
 ---
 
-Un par de líneas, son las palabras que detonaban un fabuloso mundo por explorar. En un par de líneas, lo interesante es simple.
+Un par de líneas, son las palabras que detonan en el mundo de la escritura y la producción de contenidos, un fabuloso mundo por explorar. En un par de líneas, lo interesante es simple.
