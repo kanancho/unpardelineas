@@ -10,7 +10,7 @@ disqus: ''
 mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+email: hernangarciaval@gmail.com
 
 # Authors
 authors:
