@@ -4,7 +4,7 @@ title:  "Uno puede dar lo que no tiene"
 author: hernan
 categories: [ Inspiración ]
 tags: [ Poema ]
-image: assets/images/12.jpg
+image: assets/images/7.jpg
 ---
 
 **"Uno puede dar lo que no tiene. Por ejemplo, una persona puede dar felicidad y no ser feliz; puede dar miedo y no estar aterrada. Y puede dar sabiduría y no tenerla. Todo es tan misterioso en el mundo…"**
