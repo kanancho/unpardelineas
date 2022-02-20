@@ -3,7 +3,7 @@ layout: page
 title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
+image: assets/images/9.jpg
 imageshadow: true
 ---
 
