@@ -14,13 +14,13 @@ email: wowthemesnet@gmail.com
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  hernan:
+    name: Hernan
+    display_name: Hernan
     avatar: 'assets/images/avatar-sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
+    email: hernangarciaval@gmail.com
+    web: https://www.hernangarciaval.com
+    twitter: https://twitter.com/hernangarciaval
     description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
   john:
     name: John
