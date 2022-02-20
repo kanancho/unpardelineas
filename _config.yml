@@ -4,7 +4,7 @@ title: "Un par de líneas"
 description: "Un par de líneas, son las palabras que detonaban un fabuloso mundo por explorar. En un par de líneas, lo interesante es simple."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: www.unpardelineas.com
+baseurl: 
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: ''
 mailchimp-list: ''
