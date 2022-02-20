@@ -3,7 +3,7 @@ layout: post
 title:  "Profecía covid"
 author: hernan
 categories: [ Pandemia ]
-image: assets/images/15.jpg
+image: assets/images/8.jpg
 ---
 El virus entró a mi casa tal y como se lo conté entre piscos, a Maca y Melchor el pasado cuatro de diciembre: "Mi suegro llegará de ver a su mamá y será recibido con alegría y abrazos por mi hijo más pequeño de 3 años. Luego empezará a toser y a los tres días lo hará el bebé".
 
