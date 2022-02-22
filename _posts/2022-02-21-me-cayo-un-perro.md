@@ -23,6 +23,6 @@ Me cayó el animal, rebotó y terminó en el piso. Me miró para morderme, es lo
 
 Lo mismo contó mi flaca en el funeral de su abuela materna, la _Chepa_, aclarando el motivo de mi ausencia. Luego de confirmar que me encontraba fuera de peligro, de la sorpresa pasaban a la risa y algunos a la carcajada. 
 
-Otros recordaban que la _Chepa_ (también García) era la matriarca brava de la familia, por ello afirmaban que desde el más allá, se las había ingeniado para que se me quedara la llave dentro del carro, mientras refunfunñaba el motor encendido, lo que me obligó a apurarme por esa ruta del destino, donde esperaba el perro para caer sobre mi cuerpo. 
+Otros recordaban que la _Chepa_ (también García) era la matriarca brava de la familia, por ello afirmaban que desde el más allá, se las había ingeniado para que se me quedara la llave dentro del carro, mientras refunfuñaba el motor encendido, lo que me obligó a apurarme por esa ruta del destino, donde esperaba el perro para caer sobre mi cuerpo. 
 
 *El can cayó el 23 de agosto de 2019.* 
