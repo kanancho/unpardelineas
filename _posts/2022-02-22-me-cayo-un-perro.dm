@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Me cayó un perro
+title:  "Me cayó un perro"
 author: hernan
-categories: [storytime]
+categories: [ Storytime ]
 image: assets/images/10.jpg
 ---
 
