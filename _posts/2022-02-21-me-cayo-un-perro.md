@@ -21,8 +21,8 @@ Ella rápidamente oscultó mis piernas y luego otras partes de mi cuerpo buscand
 
 Me cayó el animal, rebotó y terminó en el piso. Me miró para morderme, es lo que yo creo. Pero también estaba desorientado, trató de levantarse y se le doblaron las patas. Se abre una puerta y salen a socorrerlo, nadie me miró, así que intenté no desmayar y regresar en esa calle vacía de una mañana extrañamente soleada de invierno. 
 
-Lo mismo contó mi flaca en el funeral de su abuela materna, la García, cuando le preguntaron por qué yo no estaba presente. Luego de confirmar que me encontraba fuera de peligro, de la sorpresa pasaban a la risa y algunos a la carcajada. 
+Lo mismo contó mi flaca en el funeral de su abuela materna, la _Chepa_, aclarando el motivo de mi ausencia. Luego de confirmar que me encontraba fuera de peligro, de la sorpresa pasaban a la risa y algunos a la carcajada. 
 
-Otros recordaban que la abuela García era la matriarca brava de la familia, por ello afirmaban que desde el más allá, se las había arreglado para que se me quedara la llave dentro del carro, mientras refunfunñaba el motor encendido, lo que me obligó a caminar por esa ruta del destino, donde esperaba el perro para caer sobre mi cuerpo. 
+Otros recordaban que la _Chepa_ (también García) era la matriarca brava de la familia, por ello afirmaban que desde el más allá, se las había ingeniado para que se me quedara la llave dentro del carro, mientras refunfunñaba el motor encendido, lo que me obligó a apurarme por esa ruta del destino, donde esperaba el perro para caer sobre mi cuerpo. 
 
 *El can cayó el 23 de agosto de 2019.* 
