@@ -4,7 +4,6 @@ title: La tóxica en casa
 author: hernan
 categories: [covid]
 image: assets/images/9.jpg
-type: Journal
 ---
 
 Me ha tocado dormir en la sala por decisión de mi esposa, es la primera vez que sucede y ha sido por otra, por la más tóxica, la pandemia.
