@@ -1,3 +1,3 @@
 # unpardelineas
 Un par de líneas
-Un blog
+Este es solo un blog
