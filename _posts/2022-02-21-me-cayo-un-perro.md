@@ -15,7 +15,7 @@ En contraste con el ruido del hospital, la habitación se llenaba con el silenci
 Siguió preguntando con los ojos. Respondí que al parecer resbaló del techo al no encontrar dónde apoyar una de sus patas mientras se movía de un lado al otro en un segundo piso a medio construir. 
 
 
-Es lo que no pude contarle a mi flaca cuando esa mañana abrió la puertamientras tocaba el timbre con frenesí. Yo estaba apoyando el peso de mi cuerpo en mis manos que reposaban sobre el marco de la puerta. Mareado con la mirada perdida y el rostro enrojecido a punto de colapsar. En medio de un dolor de cabeza que se avecinaba, solo alcance a decirle, el perro. 
+Es lo que no pude contarle a mi flaca cuando esa mañana abrió la puerta mientras tocaba el timbre con frenesí. Yo estaba apoyando el peso de mi cuerpo en mis manos que reposaban sobre el marco de la puerta. Mareado con la mirada perdida y el rostro enrojecido a punto de colapsar. En medio de un dolor de cabeza que se avecinaba, solo alcance a decirle, el perro. 
 
 Ella rápidamente oscultó mis piernas y luego otras partes de mi cuerpo buscando una mordida. Me llevó hasta el sillón donde me recosté y le conté la historia por puchos. 
 
