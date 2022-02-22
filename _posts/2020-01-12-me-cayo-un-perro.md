@@ -7,14 +7,6 @@ tags: [ Perro, peligro, accidente ]
 image: assets/images/10.jpg
 ---
 
----
-layout: post
-title: Me cayó un perro
-author: hernan
-categories: [storytime]
-image: assets/images/10.jpg
----
-
 Cuando le dije al cansado médico de emergencia que me cayó un perro en la cabeza, dejó de escribir con el lapicero, levantó los ojos de la hoja, se agitó y me miró con sorpresa. 
 
 En contraste con el ruido del hospital, la habitación se llenaba con el silencio de su espera. Recuerdo que yo solo estaba caminando por la vereda cuando derrepente sentí un fuerte golpe. Primero pensé que era un asalto pero no, había recibido una violenta perreada. 
