@@ -1,9 +1,4 @@
 ---
-created: 2022-02-27T08:45:57-05:00
-modified: 2022-02-27T11:53:14-05:00
----
-
----
 layout: post
 title:  "La cabaña y el pequeño bosque"
 author: hernan
