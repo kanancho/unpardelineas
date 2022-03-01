@@ -4,7 +4,7 @@ title:  "Los cojudos"
 author: john
 categories: [ Humor ]
 image: assets/images/13.jpg
-beforetoc: "Escrita por el periodista Luis Felie Angell (Sofocleto) en 1970, este tratado filosófico - humorístico. Yo hojeo sus apuntes  cada vez que reviso el quehacer nacional. Es decir, todos los días"
+beforetoc: "Desde hace muchos años, hojeo Los COjudos y busco el origen de cada sorpresa que me llevo con el quehacer nacional. Este tratado filosófico - humorístico fue escrito por el periodista Luis Felipe Angell (Sofocleto) en 1970."
 toc: true
 ---
 
