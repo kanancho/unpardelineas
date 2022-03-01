@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Los cojudos"
-author: john
+author: hernan
 categories: [ Humor ]
 image: assets/images/13.jpg
 beforetoc: "Desde hace muchos años, hojeo Los COjudos y busco el origen de cada sorpresa que me llevo con el quehacer nacional. Este tratado filosófico - humorístico fue escrito por el periodista Luis Felipe Angell (Sofocleto) en 1970."
