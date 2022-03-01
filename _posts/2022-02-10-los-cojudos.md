@@ -5,7 +5,6 @@ author: john
 categories: [ Humor ]
 image: assets/images/13.jpg
 beforetoc: "Escrita por el periodista Luis Felie Angell (Sofocleto) en 1970, este tratado filosófico - humorístico. Yo hojeo sus apuntes  cada vez que reviso el quehacer nacional. Es decir, todos los días"
-toc: true
 ---
 
 > Entre nosotros la palabra *cojudo* se ha sublimado hasta alcanzar niveles sensoriales y características de ser vivo. Aquí en el Perú la cojudez se respira, se huele, tiene color y temperatura, dimensión, forma y hasta sabor, diría. Se lanza un *Cojudo* al aire y es como si el idioma pusiera un huevo o pariera un *algo* capaz de hablar, moverse, crecer y multiplicarse en miles de miles de otros «cojudos» polimorfos.
