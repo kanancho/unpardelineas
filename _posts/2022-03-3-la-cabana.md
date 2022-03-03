@@ -7,7 +7,7 @@ tags: [ Infancia ]
 image: assets/images/6.jpg
 ---
 
-En sus mejores años de La Cabaña de Barraco, yo era un crío. Cada vez que la visitaba era para distrutar de alguna fiesta de cumpleaños.
+En sus mejores años de La Cabaña de Barranco, yo era un crío. Cada vez que la visitaba era para distrutar de alguna fiesta de cumpleaños.
 
 Estaba rodeada de frondosos árboles de grandes copas y de una laguna, por lo que para llegar a ella había que cruzar un puente de madera. Su aspecto rural contrastaba con los colores estridentes con que la vestían por dentro, por lo menos, cada vez que yo asistía.
 
