@@ -3,7 +3,7 @@ layout: post
 title:  "Escape de Nueva York"
 author: hernan
 categories: [ Storytime ]
-tags: [ Nueva York, perdido, lost ]
+tags: [ Nueva York, escape, lost, NY ]
 image: assets/images/14.jpg
 ---
 
