@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Huyeendo de Nueva York"
+title:  "Escape de Nueva York"
 author: hernan
 categories: [ Storytime ]
 tags: [ Nueva York, perdido, lost ]
