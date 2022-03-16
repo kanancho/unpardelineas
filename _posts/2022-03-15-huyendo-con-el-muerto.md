@@ -77,3 +77,4 @@ La nave del vuelo 2207 se elevó y cerraron el aeropuerto. Se armó el despelote
 Desde ese momento, ciudad quedó sitiada por diez días. Maca no pudo salir al día siguiente como estaba programado. Tuvo que quedarse más de una semana junto a otros compañeros en el hotel, sin luz, agua y poca alimentación. 
 
 Desde unos 100 días antes, se presentaban lluvias intensas a lo largo de los Andes y la costa norte, pero en ese momento, esa semana del 17 de marzo de 2017, la novedad eran las quebradas que luego de medio siglo de inactividad, reanudaron sus flujos trayendo consigo avalanchas de lodo, troncos y otros. 
+
