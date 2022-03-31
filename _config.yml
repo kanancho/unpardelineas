@@ -1,7 +1,7 @@
 # Site
 name: "Un par de líneas"
 title: "Un par de líneas"
-description: "Un par de líneas, son las palabras que detonan un fabuloso mundo por explorar. En un par de líneas, lo interesante es simple."
+description: "Un par de líneas, son las palabras que detonan un fabuloso mundo por explorar"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 
