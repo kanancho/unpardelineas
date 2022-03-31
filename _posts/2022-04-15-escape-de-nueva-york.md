@@ -3,7 +3,7 @@ layout: post
 title:  "Escape de Nueva York"
 author: hernan
 categories: [ Anécdotas ]
-tags: [verano,invierno,tormenta,viaje,vuelosdetenidos,nuevayork,houston,hernangarciaval]
+tags: [viaje,vuelo,tormenta,emergencia,nuevayork,houston]
 image: assets/images/14.jpg
 ---
 
