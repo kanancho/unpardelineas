@@ -6,7 +6,7 @@ tags: [covid19,familia,cuarentena,fiebre,enfermedad,trabajandoencasa,homeoffice,
 image: assets/images/9.jpg
 ---
 
-Hace dos años, al iniciar el 2020, hablé con mi hijo mayor de lo que se venía, una plaga que avanzaba con una rapidez inusual en un Perú con una sanidad perversa, donde solo podrían estar unidos físicamente los que vivieran juntos. Confieso que las proporciones de lo que llegó superaron mis temores.
+Hace dos años, al iniciar el 2020, hablé con mi hijo mayor de lo que se venía, una plaga que avanzaba con una rapidez inusual en el mundo y que llegaba al Perú, que siempre vivió con una sanidad perversa, donde solo podrían estar unidos físicamente los que vivieran juntos. Confieso que a pesar del miedo que me daba mi poco conocimiento sobre [plagas y enfermedades](https://www.hernangarciaval.com/), las proporciones de lo que llegó superaron mis temores.
 
 > Fue así que cuando se inició el estate quieto, la inmovilización social obligatoria (cuarentena) el 16 de marzo de 2020, mi amado veinteañero decidió quedarse con sus abuelos y su tía, "Ellos me necesitan", fueron sus palabras. Dijo eso cuando muchos creíamos (me incluyo), que este mal se movía como una niebla para llegar hasta nuestras narices o se pegaba a cualqueir cosa, a la espera de sus víctimas.
 
