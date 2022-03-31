@@ -3,7 +3,7 @@ layout: post
 title:  "Huyendo con el muerto"
 author: hernan
 categories: [ Anécdotas ]
-tags: [fenomeno,elniño,desborde,lluvias,trujillo,muerto,viaje]
+tags: [fenomeno,elniño,desborde,lluvias,trujillo,muerto,viaje,hernangarciaval]
 image: assets/images/15.jpg
 beforetoc: "Hace dos años llegamos a Trujillo, tan solo unas horas antes del huayco que daría inicio a toda la destrucción que traía el llamado Niño Costero en 2017."
 toc: true
