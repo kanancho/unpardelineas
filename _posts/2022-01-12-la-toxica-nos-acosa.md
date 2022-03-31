@@ -18,4 +18,4 @@ Ese seis de marzo fue el día en que anunciaron el caso cero en Arequipa, justo 
 
 Ahora, después de dos años las cosas son diferentes, estamos revacunados ante una versión supuestamente menos maligna del corona, que ha llegado a mi casa e infectado al más pequeño y no vacunado, quién valiente como un shupelele soportó el hisopado en la garganta y fosas nasales.
 
-Pero parece que esta vez no nos libraremos del contagio, es más se lo comenté a [Maca con un cebiche](2022-02-3-profecia-covid19.md).
+Pero parece que esta vez no nos libraremos del contagio, es más se lo comenté a [Maca con un cebiche](_posts/2022-02-3-profecia-covid19.md).
