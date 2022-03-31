@@ -13,6 +13,7 @@ No hubo levitación, ni giros de 360 grados de mi cabeza, ni hojas de coca, era 
 
 Entonces, tal y como se vaticinó, el bebe empezó con la calentura el miércoles, esa noche lo llevamos con suma ternura a dormir con nosotros. Durante el día, se quedaba conmigo y cuando estaba bien se me colgaba y reía abriendo tanto la boca que temía se comiera todo mi rostro, es más, en uno de sus almuerzos, me estornudó en la cara.
 
+Hace unos días recordaba cómo [iniciábamos esta pandemia](https://unpardelineas.com/la-toxica-nos-acosa/).
 # Cae la tercera
 Llegando del trabajo, su mamá se sumaba con añoranza a sus cuidados, hasta aquel domingo en que ella empezó a perder la voz. La besé al amanecer aunque ella decía que no debería hacerlo. Con el dolor de garganta llegó su resultado positivo, el que como daño colateral, me llevó a dormir a la sala.
 
