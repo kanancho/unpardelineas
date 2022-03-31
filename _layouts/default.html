@@ -25,9 +25,11 @@
 
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 
-	<!-- esta linea de google analitics -->
+	<!-- estas 3 lineas de google analitics -->
 
-{% include analytics.html %}
+  {% if jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
 	
 </head>
 
