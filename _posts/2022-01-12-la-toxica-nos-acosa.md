@@ -6,11 +6,7 @@ tags: [covid19,familia,cuarentena,fiebre,enfermedad,trabajandoencasa,homeoffice,
 image: assets/images/9.jpg
 ---
 
-Me ha tocado dormir en la sala por decisión de mi esposa, es la primera vez que sucede y ha sido por otra, por la más tóxica, la pandemia.
-
-Las comidas en esta casa de cuatro han quedado suspendidas. El abuelo lo toma como una afrenta, mi esposa como un acto de amor, yo como una estrategia, nuestro pequeño como un juego. Sin embargo, no es la primera vez que nos separa.
-
-Al iniciar el 2020, hablé con mi hijo mayor de lo que se venía, una plaga que avanzaba con una rapidez inusual en un Perú con una sanidad perversa, donde solo podrían estar unidos físicamente los que vivieran juntos. Confieso que las proporciones de lo que llegó superaron mis temores.
+Hace dos años, al iniciar el 2020, hablé con mi hijo mayor de lo que se venía, una plaga que avanzaba con una rapidez inusual en un Perú con una sanidad perversa, donde solo podrían estar unidos físicamente los que vivieran juntos. Confieso que las proporciones de lo que llegó superaron mis temores.
 
 > Fue así que cuando se inició el estate quieto, la inmovilización social obligatoria (cuarentena) el 16 de marzo de 2020, mi amado veinteañero decidió quedarse con sus abuelos y su tía, "Ellos me necesitan", fueron sus palabras. Dijo eso cuando muchos creíamos (me incluyo), que este mal se movía como una niebla para llegar hasta nuestras narices o se pegaba a cualqueir cosa, a la espera de sus víctimas.
 
