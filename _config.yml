@@ -5,7 +5,7 @@ description: "Un par de líneas, son las palabras que detonan un fabuloso mundo 
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 
-google_analytics: 'G-Z0JKDH9X0T'
+google_analytics: "G-Z0JKDH9X0T"
 disqus: ''
 mailchimp-list: ''
 include: ["_pages"]
