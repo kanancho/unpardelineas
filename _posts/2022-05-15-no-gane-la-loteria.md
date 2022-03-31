@@ -2,8 +2,8 @@
 layout: post
 title:  "El día que no gané la lotería"
 author: hernan
-categories: [ Storytime ]
-tags: [ Suerte ]
+categories: [ Anécdotas ]
+tags: [suerte,loteria,lima]
 image: assets/images/2.jpg
 rating: 4.5
 ---
