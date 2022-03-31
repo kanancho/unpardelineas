@@ -2,8 +2,8 @@
 layout: post
 title:  "La cabaña y el pequeño bosque"
 author: hernan
-categories: [ Storytime ]
-tags: [ Infancia ]
+categories: [ Anécdotas ]
+tags: [infancia,madre,recuerdo,lugares,barranco,lima]
 image: assets/images/6.jpg
 ---
 
