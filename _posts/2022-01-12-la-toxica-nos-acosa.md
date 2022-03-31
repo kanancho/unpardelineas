@@ -2,7 +2,7 @@
 layout: post
 title: La tóxica en casa
 categories: [ Anécdotas ]
-tags: [covid19,familia,cuarentena,fiebre,enfermedad,trabajandoencasa,homeoffice,zoom,newnormal,hernangarciaval]
+tags: [familia,miedo,niños,familia,covid19,cuarentena,omicron,hernangarciaval]
 image: assets/images/9.jpg
 ---
 
