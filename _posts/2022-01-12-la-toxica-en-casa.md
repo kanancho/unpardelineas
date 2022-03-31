@@ -1,8 +1,8 @@
 ---
 layout: post
 title: La tóxica en casa
-author: hernan
-categories: [covid]
+categories: [ Anécdotas ]
+tags: [covid19,familia,cuarentena,fiebre,enfermedad,trabajandoencasa,homeoffice,zoom,newnormal,hernangarciaval]
 image: assets/images/9.jpg
 ---
 
@@ -12,9 +12,9 @@ Las comidas en esta casa de cuatro han quedado suspendidas. El abuelo lo toma co
 
 Al iniciar el 2020, hablé con mi hijo mayor de lo que se venía, una plaga que avanzaba con una rapidez inusual en un Perú con una sanidad perversa, donde solo podrían estar unidos físicamente los que vivieran juntos. Confieso que las proporciones de lo que llegó superaron mis temores.
 
-> Con ese conocimiento al imponerse la inmovilización social obligatoria el 16 de marzo de 2020, mi amado veinteañero decidió quedarse en la casa de sus abuelos, "Ellos me necesitan", fueron sus palabras. Dijo eso cuando muchos creían y no lo negaba la OMS, que este mal se movía como una niebla para ser aspirada o se pegaba a toda superficie a la espera de sus víctimas.
+> Fue así que cuando se inició el estate quieto, la inmovilización social obligatoria (cuarentena) el 16 de marzo de 2020, mi amado veinteañero decidió quedarse con sus abuelos y su tía, "Ellos me necesitan", fueron sus palabras. Dijo eso cuando muchos creíamos (me incluyo), que este mal se movía como una niebla para llegar hasta nuestras narices o se pegaba a cualqueir cosa, a la espera de sus víctimas.
 
-Mi hermana, la más delgada, con todos sus achaques que le dejó su primera batalla contra la muerte al nacer, decidió ser la que caminara por ese mundo hostil, gobernado ya por la Covid-19 para proteger a nuestros padres y a su sobrino. Ella también nos enviaba víveres con el fin de que no tomáramos la calle. Así fue que en los primeros meses, este brutal código de ARN entró tocando a mi padre pero con un solo objetivo, ensañarse con ella por 45 días y más.
+Mi hermana, la más delgada, con todos sus achaques que le dejó su primera batalla contra la muerte al nacer, decidió ser la que caminara por ese mundo hostil, gobernado ya por la Covid19 para proteger a nuestros padres y a su sobrino. Ella también nos enviaba víveres con el fin de que no tomáramos la calle. Así fue que en los primeros meses, este brutal código de ARN entró tocando a mi padre pero con un solo objetivo, ensañarse con ella por más de 45 días.  Infríngiéndole daños que se agravan con los meses.
 
 Dice mi esposa que desde diez días antes del 16 de marzo del 2020, yo no he vuelto a ser el mismo. Qué desde aquel entonces, cada 48 horas creo que me ataca el corona y padezco sus síntomas.
 
