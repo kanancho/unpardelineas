@@ -6,7 +6,7 @@ tags: [covid19,familia,cuarentena,fiebre,enfermedad,trabajandoencasa,homeoffice,
 image: assets/images/9.jpg
 ---
 
-Hace dos años, al iniciar el 2020, hablé con mi hijo mayor de lo que se venía, una plaga que avanzaba con una rapidez inusual en el mundo y que llegaba al Perú, que siempre vivió con una sanidad perversa, donde solo podrían estar unidos físicamente los que vivieran juntos. Confieso que a pesar del miedo que me daba mi poco conocimiento sobre [plagas y enfermedades](https://www.hernangarciaval.com/), las proporciones de lo que llegó superaron mis temores.
+Hace dos años, al iniciar el 2020, hablé con mi hijo mayor de lo que se venía, una plaga que avanzaba con una rapidez inusual en el mundo y que llegaba al Perú, que siempre vivió con una sanidad perversa, donde solo podrían estar unidos físicamente los que vivieran juntos. Confieso que a pesar del miedo que me daba mi poco conocimiento sobre plagas y enfermedades, las proporciones de lo que llegó superaron mis temores.
 
 > Fue así que cuando se inició el estate quieto, la inmovilización social obligatoria (cuarentena) el 16 de marzo de 2020, mi amado veinteañero decidió quedarse con sus abuelos y su tía, "Ellos me necesitan", fueron sus palabras. Dijo eso cuando muchos creíamos (me incluyo), que este mal se movía como una niebla para llegar hasta nuestras narices o se pegaba a cualqueir cosa, a la espera de sus víctimas.
 
@@ -18,4 +18,4 @@ Ese seis de marzo fue el día en que anunciaron el caso cero en Arequipa, justo 
 
 Ahora, después de dos años las cosas son diferentes, estamos revacunados ante una versión supuestamente menos maligna del corona, que ha llegado a mi casa e infectado al más pequeño y no vacunado, quién valiente como un shupelele soportó el hisopado en la garganta y fosas nasales.
 
-Unos días después, corta más fino y nos separa más. Empezó ayer cuando la vi sobarse el cuello. Ella carraspea y con una dulce frase me saca de la habilitación. Y ahora solo espero, lo siento cerca, casi casi en mis suspiros.
+Pero parece que esta vez no nos libraremos del contagio, es más se lo comenté a [Maca con un cebiche](2022-02-3-profecia-covid19.md).
