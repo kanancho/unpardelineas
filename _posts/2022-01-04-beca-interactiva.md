@@ -25,8 +25,8 @@ Hola, ¡bienvenido al Reto de la beca!
 }
 </style>
 <div class="video-holder">
-  <iframe width="560"
-          height="315" 
+  <iframe width="600"
+          height="900" 
           src="https://kanancho.github.io/beca/" 
           frameborder="0" 
           allowfullscreen></iframe>
