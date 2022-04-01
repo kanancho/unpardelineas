@@ -9,4 +9,4 @@ image: assets/images/16.jpg
 Hola, ¡bienvenido al Reto de la beca!
 
 
-<iframe align="center" height="500" src="https://kanancho.github.io/beca/" width="100%"></iframe>
+<iframe align="center" height="900" src="https://kanancho.github.io/beca/" width="100%"></iframe>
