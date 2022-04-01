@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ya va a venir el día, ponte el alma."
+title:  "Ya va a venir el día, ponte el alma"
 author: hernan
 categories: [ Inspiración ]
 tags: [vallejo,motivacion]
