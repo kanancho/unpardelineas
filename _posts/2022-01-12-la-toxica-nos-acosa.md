@@ -1,6 +1,7 @@
 ---
 layout: post
 title: La tóxica en casa
+author: hernan
 categories: [ Anécdotas ]
 tags: [familia,miedo,niños,familia,covid19,cuarentena,omicron,hernangarciaval]
 image: assets/images/9.jpg
