@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Juego en Twine"
+title:  "Propuesta interactiva"
 author: hernan
 categories: [ Curiosidades ]
 tags: [twine]
