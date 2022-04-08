@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Crea historias interactivas como un expero"
+title:  "Crea historias interactivas como un experto"
 author: hernan
 categories: [ Digital ]
 tags: [programa sin programar,twine,codigo,html,historia,interactiva]
