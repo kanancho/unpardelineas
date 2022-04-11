@@ -7,8 +7,8 @@ tags: [programa sin programar,twine,codigo,html,historia,interactiva]
 image: assets/images/17.jpg
 ---
 Esta herramienta está fenomenal, es fácil de usar y tiene mucho potencial para contar historias. 
-La acabo de descubrir. Existe desde 2009 pero acabo de encontrarlo. ¿Por qué no lo conocí antes? 
-Quizá porque recién se me despertó el apetito por nuevas formulas digitales para comunicar.
+La acabo de descubrir. Existe desde 2009 pero acabo de encontrarla. ¿Por qué no la conocí antes? 
+Quizá porque recién se me despertó el apetito por lo digital.
 
 Así me encontré con Twine, una herramienta que te permite contar una historia web in-te-rac-ti-va sin usar código.  
 La historia se descarga en un archivo HTML que no pesa nada, el cual puedes enviar por wasap, correo electrónico o publicarla en tu web. 
