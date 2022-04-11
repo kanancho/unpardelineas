@@ -11,8 +11,10 @@ La acabo de descubrir. Existe desde 2009 pero acabo de encontrarla. ¿Por qué n
 Quizá porque recién se me despertó el apetito por lo digital.
 
 Así me encontré con Twine, una herramienta que te permite contar una historia web in-te-rac-ti-va sin usar código.  
+
 La historia se descarga en un archivo HTML que no pesa nada, el cual puedes enviar por wasap, correo electrónico o publicarla en tu web. 
 Y lo mejor, es de código abierto y de uso libre. Puedo usarlo con Markdown (para escribir para web sin saber código). 
+
 Twine te permite contar historias, quizá como juegos, que puedes armar a través de su Web o descargar el programa y usarlo, es fácil, ¡inténtalo!
 
 Acá algunos ejemplos:
