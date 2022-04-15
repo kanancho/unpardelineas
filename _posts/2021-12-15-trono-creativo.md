@@ -3,7 +3,7 @@ layout: post
 title:  "Mi trono, ¡detonador creativo!"
 author: hernan
 categories: [ Anécdotas ]
-tags: [trabajandoencasa,homeoffice,zoom,newnormal,hernangarciaval]
+tags: [trabajandoencasa,homeoffice,zoom,newnormal]
 image: assets/images/5.jpg
 ---
 
