@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Marlon Brandon era Túpac Amaru."
+title:  "Marlon Brandon era Túpac Amaru"
 author: hernan
 categories: [ Artes ]
 tags: [ marlon brandon joven,blackface ]
