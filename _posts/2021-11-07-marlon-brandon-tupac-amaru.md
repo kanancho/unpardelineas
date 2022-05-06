@@ -21,6 +21,11 @@ La película tendría un estreno mundial en 1980, algo que no sucedió por lo qu
 
 # No era la primera vez
 
+![My image](/assets/images/2.jpg)
+
+{:.image-caption}
+*The caption for my image*
+
 En 1969 se estrenó "The royal hunt of the sun" donde, gracias al dios sol, un bronceado Christopher Plummer interpretaba a Atahuallpa ![The royal hunt of the sun](https://lh3.googleusercontent.com/-B7NeBSj6uxE/YYdq4InRqqI/AAAAAAABhZ4/i3R30kXKaSsY894BfQrfxMLzA6ZkODu_wCLcBGAsYHQ/s1600/1636264670709611-0.png). 
 
 Lo que nos trae Neflix al escoger actores blancos alejados de la imagen de personajes peruanos no es nuevo, pero son otras épocas, tiempos de reinvindicación de las minorías.
