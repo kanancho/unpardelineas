@@ -23,7 +23,7 @@ La película tendría un estreno mundial en 1980, algo que no sucedió por lo qu
 
 En 1969 se estrenó "The royal hunt of the sun" donde, gracias al dios sol, un bronceado Christopher Plummer interpretaba a Atahuallpa 
 <figure>
-  <img src="{{site.url}}https://lh3.googleusercontent.com/-B7NeBSj6uxE/YYdq4InRqqI/AAAAAAABhZ4/i3R30kXKaSsY894BfQrfxMLzA6ZkODu_wCLcBGAsYHQ/s1600/1636264670709611-0.png" alt="my alt text"/>
+  <img src="{{site.url}}/assets/images/3.jpg" alt="my alt text"/>
   <figcaption>This is my caption text.</figcaption>
 </figure>
 
