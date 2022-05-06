@@ -316,6 +316,11 @@ img, img:hover {
         }
     }
 
+	.image-caption {
+  text-align: center;
+  font-size: .8rem;
+  color: light-grey;
+		
     .blog-grid-item:nth-child(2), .blog-grid-item:nth-child(3) {
         .card-text {
             display:none;
