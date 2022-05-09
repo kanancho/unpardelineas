@@ -62,7 +62,9 @@ Años después, ya viviendo en Mangomarca, en el tiempo la moda era que la radio
 
 # La esquina del movimiento
 
-Ella recuerda que la panadería era muy linda, todos los eventos de Mangomarca se hacían ahí, en su frontis. Recuerda con añoranza que celebraban todo, día de la madre, día del trabajo. Como la panadería era grande los proveedores les regalaban productos. Hacían torres de gaseosas, ellos mismos las armaban. Regalaban radios, peluches, contrataban conjuntos criollo de vecinos y tocaban en la puerta con sus micros y parlantes. Todo Mangomarca se reunía en el frontis para los sorteos y canastas navideñas. 
+Ella recuerda que la panadería era muy linda, todos los eventos de Mangomarca se hacían ahí, en su frontis. Recuerda con añoranza que celebraban todo, día de la madre, día del trabajo. 
+
+Como la panadería era grande los proveedores les regalaban productos. Hacían torres de gaseosas, ellos mismos las armaban. Regalaban radios, peluches, contrataban conjuntos criollo de vecinos y tocaban en la puerta con sus micros y parlantes. Todo Mangomarca se reunía en el frontis para los sorteos y canastas navideñas. 
 
 El 15 de diciembre celebraron su aniversario por tres años consecutivos
 
