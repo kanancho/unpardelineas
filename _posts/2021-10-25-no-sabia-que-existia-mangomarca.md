@@ -8,7 +8,8 @@ image: "https://lh3.googleusercontent.com/-MRbFizyX4RY/YKbFdVY0PiI/AAAAAAABfs0/y
 beforetoc: "Con esta frase, la ahora antigua vecina de Mangomarca, nos explica que, llegar a estas tierras fue todo un descubrimiento."
 toc: true
 ---
- ## Geidi en el Pueblo del Señor
+
+## Geidi en el Pueblo del Señor
 
  > “Yo no sabía que existía Mangomarca. Yo estaba postulando para trabajar en una central telefónica en Miraflores, cuando me dicen que ese puesto ya estaba ocupado. Me dijeron que no me desanime porque ya sabían dónde vivía y me propusieron ir a trabajar a Mangomarca, >>
 
