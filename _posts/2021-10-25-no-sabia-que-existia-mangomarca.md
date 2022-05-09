@@ -17,7 +17,7 @@ toc: true
 
 Ella es la simpática Geidi Miranda Cuadrao, la jovial y carismática administradora de la panadería de Jacky, la más antigua de nuestra urbanización, contándonos cómo llegó hace 29 años atrás, para trabajar en el centro comunitario de telefonía de Mangomarca, la única forma para comunicarse por teléfono con el resto del país y del mundo.
 
-Mangomarca en quechua *Manqu Marka* significa Pueblo del Señor y, por el XX aqui se asentó el curacazgo de Ruricancho, que obedecía al Señorío Ichma entre los 900-1470 después de Cristo.  
+Mangomarca en quechua *Manqu Marka* significa Pueblo del Señor, aqui se asentó el curacazgo de Ruricancho, que obedecía al Señorío Ichma entre los 900-1470 después de Cristo y antes que la expansión del imperio Inca llegara a estas tierras.  
 
 >> “Mi trabajo era recibir las llamadas, apuntar el código, el primer apellido de la familia y la hora en que volverían a llamar. Nosotros apuntábamos en un papelito mismo telegrama, por ejemplo “031, familia Alva, esperar llamada de Fulano de Tal, tres de la tarde”. 
 
