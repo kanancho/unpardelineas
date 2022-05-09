@@ -30,29 +30,29 @@ Este fue su trabajo de 1991 hasta parte de 1993. Cuando empezaron a aparecer los
 
 “La panadería funciona desde el 87 al lado de la cabina. Lleva el nombre de la hermana menor de la familia de mi esposo, Jacky, que en aquel entonces era adolescente. 
 
-Los vecinos más antiguos guardan buenos recuerdos de Jacky, por su entusiasmo y empatía, Algo que Geidi compartía, “la empatía se refleja en el trato hacia los clientes, mi trato es muy personalizado, cuando vienes, no solo llegas a la caja, pagas y recibes tu ticket que cambias por productos”. 
+Los vecinos más antiguos guardan buenos recuerdos de Jacky, por su entusiasmo y empatía, Algo que Geidi comparte, “la empatía se refleja en el trato hacia los clientes, mi trato es muy personalizado, cuando vienes, no solo llegas a la caja, pagas y recibes tu ticket que cambias por productos”. 
 
 > “Conozco que lleva cada vecino porque lo veo todos los días.Que tipo de pan, los productos qué le gusta. Mientras los atiendo voy conversando con cada uno de ellos.” 
 
 Muchos se confunden y la llaman Jacky, como su cuñada. Las dos guardan la misma simpatía, son morenas y sonrientes. “Algunos me dicen Jacky porque me parezco a mi cuñada. Otros si me llaman por mi nombre y me dicen, Hola  Geidi”. 
 
-Antes no se preocupaba por ello pero conforme sus hijos iban creciendo los reclamos aumentaban: 
+Antes no se preocupaba por ello pero conforme sus hijos iban creciendo empezaron sus reclamos: 
 
 > “yo seguía normal pero por consejo de mis hijos empecé a decir cómo me llamo”, “¿cómo voy a estar diciendo a cada rato?”. “No importa mamá, no importa”, me respondían. 
 
 Quienes la siguen llamando Jacky, son personas mayores, se justifican diciendo, “es que la tienda se llama Jacky y tú siempre estás aquí”.
 
-Con el pasar de los años yo le tengo un cariño a Mangomarca, yo he encontrado acá tres mamás, dos papás. Yo me casé muy joven tengo vecinitos, don Raúl y la señora Elvira eran mis terceros papás. Los vecinitos de acá eran mis segundos papás, ellos me cuidaban mucho. 
+Ella asegura que con el paso de los años le fue naciendo un cariño mágico por Mangomarca, que creció con amigos de adultos que fue teniendo como los señores Aricoché Cuzquén, los amigos de la Iglesia, ellos saben de sus sueños.
 
-Tengo yo más amigos de adultos que gente de mi edad, como los señores Aricoché Cuzquén, los amigos de la Iglesia saben que quiero hacer la cafetería. 
+> "yo he encontrado acá tres mamás, dos papás. Me casé muy joven tengo vecinitos, don Raúl y la señora Elvira eran mis terceros papás. Los vecinitos de acá eran mis segundos papás, ellos me cuidaban mucho". 
 
-Esta panadería era muy linda, todos los eventos de Mangomarca se hacían acá. 
+Esta tuvo sus muy buenos momentos, todos los eventos de los ochentas se hacían acá. 
 
 ## El Perú es chico
 
 Cuando Geidi tenía 17 años ingresó a la carrera de derecho en la Universidad Federico Villarreal pero en ese año anularon los exámenes, 
 
-> “ya no valen me dijeron. Me deprimí mucho, baje bastante de peso, no quería ver a nadie. Mi mamá me llevó a Casma”.
+> “Ya no valen me dijeron. Me deprimí mucho, baje bastante de peso, no quería ver a nadie. Mi mamá me llevó a Casma”.
 
 De día trabajaba en la municipalidad para luego salir a pasear por sus calles puesto que no conocía a nadie. Hasta que se encontró con un anuncio en la puerta de Radio 99, que decía “se necesita una señorita”. Tocó la puerta y lo primero que le preguntaron fue, ¿podemos probar tu voz?, ella no lo creía.
 
@@ -62,11 +62,11 @@ Años después, ya viviendo en Mangomarca, en el tiempo la moda era que la radio
 
 # La esquina del movimiento
 
-Ella recuerda que la panadería era muy linda, todos los eventos de Mangomarca se hacían ahí, en su frontis. “Nosotros celebrábamos todo, día de la madre, día del trabajo”. 
+Ella recuerda que la panadería era muy linda, todos los eventos de Mangomarca se hacían ahí, en su frontis. Recuerda con añoranza que celebraban todo, día de la madre, día del trabajo. Como la panadería era grande los proveedores les regalaban productos. Hacían torres de gaseosas, ellos mismos las armaban. Regalaban radios, peluches, contrataban conjuntos criollo de vecinos y tocaban en la puerta con sus micros y parlantes. Todo Mangomarca se reunía en el frontis para los sorteos y canastas navideñas. 
 
-“Como la panadería era grande nuestros proveedores nos regalaban productos. Hacíamos torres de gaseosas, ellos mismos las armaban. Regalábamos radios, peluches, contratábamos conjuntos criollo de vecinos y tocaban acá en la puerta con sus micros y parlantes. Acá (en la puerta) había una máquina súper grande de bebidas. Todo Mangomarca se reunía con nosotros para los sorteos y canastas navideñas”. 
+El 15 de diciembre celebraron su aniversario por tres años consecutivos
 
-“Nosotros celebramos nuestro aniversario, el 15 de diciembre, tres años consecutivos, con y para la gente de Mangomarca. Pusimos un escenario invitamos a Lucila Campos, a Néstor Quinteros y la playa (de estacionamiento) se llenaba de gente. Llegaba una señora que quería vender su pollito a la brasa, otro señor con sus anticuchos, todos se unían”.
+> "Con y para la gente de Mangomarca. Pusimos un escenario invitamos a Lucila Campos, a Néstor Quinteros y la playa (de estacionamiento) se llenaba de gente. Llegaba una señora que quería vender su pollito a la brasa, otro señor con sus anticuchos, todos se unían”.
 
 Vendían de todo, inclusive los fines de semana, cuando se armaba un mercado en sus puertas, los vendedores entraban a comprar a la panadería Jacky cuartitos de productos para vender a fuera. Era proveer para compartir. La municipalidad los sacó porque iban a hacer un bulevar.
 
@@ -74,7 +74,7 @@ Vendían de todo, inclusive los fines de semana, cuando se armaba un mercado en 
 
 Hace unos años, la panadería pasó su momento más difícil, en que todos los estantes estaban vacíos. Era un problema administrativo familiar, tuvieron que cerrar por un tiempo, que los afecta económicamente. 
 
-> “Entonces volvimos a abrir, vacío todo. Recibimos apoyo del colegio, de la familia pero no podíamos seguir así, necesitábamos pagar a cuatro trabajadores, recibos de agua y luz.  Pero poco a poco, mientras trabajas va quedando alguito, un día un sol, al otro día tienes dos soles”. 
+Volvieron a abrir, vacío todo. Recibieron apoyo del colegio, de la familia pero no podían seguir así, necesitaban pagar a cuatro trabajadores, recibos de agua y luz.  Pero poco a poco, mientras trabajaban les iba quedando alguito, un día un sol, la día siguiente otro, ya tenían dos soles. 
 
 > “Un momento personalmente ya estaba preparada para darle fin, pero Alejandro no quiere, él dice que hasta el día que se muera seguirá con la panadería. Así que decidimos seguir vendiendo solo pan, mis hijos tenían prohibido repetir cursos, prohibido jalar”. 
 
