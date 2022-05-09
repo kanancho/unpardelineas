@@ -23,7 +23,7 @@ Mangomarca en quechua *Manqu Marka* (Pueblo del Señor), se encuentra en San Jua
 
 Luego nuestro mensajero que se conocía todo Mangomarca iba hasta la dirección que teníamos registrada en un cuaderno donde estaban todos los inscritos”. En la lista estaban registrados 300 vecinos que pagaban una cuota mensual. 
 
-Este fue su trabajo de 1991 hasta parte del 1993. Cuando empezaron a aparecer los celulares y las líneas telefónicas, fue el final del negocio. En ese momento la panadería pasó a ocupar todo el espacio del local.
+Este fue su trabajo de 1991 hasta parte de 1993. Cuando empezaron a aparecer los celulares y las líneas telefónicas, fue el final del negocio. En ese momento la panadería pasó a ocupar todo el espacio del local.
 
 ## ¿Geidi es Jacky?
 
