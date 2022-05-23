@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 baseurl: 
 google_analytics: "G-Z0JKDH9X0T"
 disqus: ''
-mailchimp-list: ''
+mailchimp-list: '7082264c4d'
 include: ["_pages"]
 permalink: /:title/
 email: hernangarciaval@gmail.com
