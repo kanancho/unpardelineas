@@ -2,7 +2,7 @@
 layout: post
 title:  "Propuesta interactiva"
 author: hernan
-categories: [ Curiosidades ]
+categories: [ Marketing ]
 tags: [twine]
 image: assets/images/16.jpg
 ---
