@@ -13,7 +13,10 @@ Mi padre siempre se enfrentó al tiempo, sufriendo su pérdida, ganando pequeña
 
 Antes del amanecer, abría sus ojos y en la oscuridad buscaba con la mano sobre la mesita de noche la única arma que llevaba para combatir a este ser inmortal. Cogía el frío metal planteado y se lo montaba sobre la muñeca izquierda, luego al ritmo del tic tac, meditaba y media la batalla del día.
 
+# Mi padre y el tiempo
+
 ## Ganar y perder tiempo
+
 Cuando niño, me explicaba las estrategias que había experimentado y mejorado con los años para ganarle a este gigante. “Si das todo tu esfuerzo en la primera lucha, lo más seguro es que no tendrás que volver a ella y le habrás ganado al tiempo”, me decía bajo una mirada cómplice.
 
 Escuchábamos radionoticias muy temprano, movía la cabeza de un lado al otro rechazando lo que escuchaba, mayormente declaraciones de políticos. “Como les gusta perder el tiempo” murmuraba para mí tras un sorbo de café.
