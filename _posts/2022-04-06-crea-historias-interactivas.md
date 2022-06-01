@@ -6,6 +6,9 @@ categories: [ Marketing ]
 tags: [programa sin programar,twine,codigo,html,historia,interactiva]
 image: assets/images/17.jpg
 ---
+
+# Crea historias interactivas con Twine
+
 Esta herramienta está fenomenal, es fácil de usar y tiene mucho potencial para contar historias. 
 La acabo de descubrir. Existe desde 2009 pero acabo de encontrarla. ¿Por qué no la conocí antes? 
 Quizá porque recién se me despertó el apetito por lo digital.
