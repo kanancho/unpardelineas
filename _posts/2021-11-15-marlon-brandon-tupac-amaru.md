@@ -1,6 +1,5 @@
 ---
 layout: post
-title:  "Marlon Brandon era Túpac Amaru"
 author: hernan
 categories: [ Artes ]
 tags: [ marlon brandon joven,blackface ]
@@ -8,6 +7,8 @@ image: "https://lh3.googleusercontent.com/-59PCJvECg5w/YYdiHvBi1aI/AAAAAAABhZY/c
 beforetoc: "Quien más que Marlon Brandon para interpretar a Túpac Amaru, eso pensó Hollywood, muchos años antes que Neflix"
 toc: true
 ---
+
+# Marlon Brandon era Túpac Amaru
 
 Hace más de 40 años atrás, un Marlon Brandon joven sería llamado por Hollywood para interpretar a José Gabriel Condorcanqui *Túpac Amaru II*, en una película sobre la rebelión contra el dominio Español (1780). 
 
