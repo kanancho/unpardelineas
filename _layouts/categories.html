@@ -1,10 +1,10 @@
 ---
-title: "Categorias"
+title: "Categories"
 layout: default
-permalink: "/categorias.html"
+permalink: "/categories.html"
 ---
 
-{% for category in site.categorias %}
+{% for category in site.categories %}
 <h4 class="mt-5 mb-neg-30" id="{{ category[0] | replace: " ","-" }}"><span class="text-capitalize badge badge-primary text-small">{{ category[0] }}</span></h4>
 <div class="blog-grid-container">
 {% assign pages_list = category[1] %}
