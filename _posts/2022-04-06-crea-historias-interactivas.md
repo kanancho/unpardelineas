@@ -2,7 +2,7 @@
 layout: post
 title:  "Crea historias interactivas como un experto"
 author: hernan
-categories: [ Digital ]
+categories: [ Marketing ]
 tags: [programa sin programar,twine,codigo,html,historia,interactiva]
 image: assets/images/17.jpg
 ---
