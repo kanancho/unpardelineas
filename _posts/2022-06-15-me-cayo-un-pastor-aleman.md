@@ -7,6 +7,8 @@ tags: [perro,accidente,fabuloso]
 image: assets/images/10.jpg
 ---
 
+# Me cayó un pastor alemán sobre la cabeza
+
 Cuando le dije al cansado médico de guardia que me cayó un perro en la cabeza, dejó de escribir, soltó el lapicero sobre el viejo escritorio, levantó los ojos de la hoja, se acomodó los lentes y me miró con sorpresa. 
 
 En contraste con el ruido del hospital, la habitación se llenaba con el silencio de su espera. Después de que mi familia no me entendiera porque les contaba la inverosimil historia a medias, su reacción me parecía hasta natural. Le dije que yo caminaba por la vereda cuando derrepente **¡pataclaun!** algo cayó sobre mi de golpe y oscureció mi mañana. Primero pensé que era un asalto pero a los pocos segundos me di cuenta que había recibido una violenta perreada. 
