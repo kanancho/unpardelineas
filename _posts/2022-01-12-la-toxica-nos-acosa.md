@@ -1,11 +1,13 @@
 ---
 layout: post
-title: La tóxica en casa
+title: "La tóxica en casa"
 author: hernan
 categories: [ Anécdotas ]
 tags: [familia,miedo,niños,familia,covid19,cuarentena,omicron,hernangarciaval]
 image: assets/images/9.jpg
 ---
+
+# La tóxica en casa
 
 Hace dos años, al iniciar el 2020, hablé con mi hijo mayor de lo que se venía, una plaga que avanzaba con una rapidez inusual en el mundo y que llegaba al Perú, que siempre vivió con una sanidad perversa, donde solo podrían estar unidos físicamente los que vivieran juntos. Confieso que a pesar del miedo que me daba mi poco conocimiento sobre plagas y enfermedades, las proporciones de lo que llegó superaron mis temores.
 
