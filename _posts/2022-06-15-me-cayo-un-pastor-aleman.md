@@ -13,7 +13,7 @@ Cuando le dije al cansado médico de guardia que me cayó un perro en la cabeza,
 
 En contraste con el ruido del hospital, la habitación se llenaba con el silencio de su espera. Después de que mi familia no me entendiera porque les contaba la inverosimil historia a medias, su reacción me parecía hasta natural. Le dije que yo caminaba por la vereda cuando derrepente **¡pataclaun!** algo cayó sobre mi de golpe y oscureció mi mañana. Primero pensé que era un asalto pero a los pocos segundos me di cuenta que había recibido una violenta perreada. 
 
-# El tamaño si importa
+## El tamaño si importa
 
 Él no reaccionó, imagino que guardaba la risa para el almuerzo. Asumió que el can era pequeño, negué con la mano porque no podía mover el cuello. Era un animal de unos 50 kilos, un joven pastor alemán, aclaré. 
 
@@ -23,7 +23,7 @@ Es lo que no pude contarle a mi flaca cuando esa mañana abrió la puerta mientr
 
 Con desesperación revisó mis piernas y luego otras partes de mi cuerpo buscando una mordida. Me llevó hasta el sillón donde me recosté y le conté la historia por puchos y en desorden. 
 
-# Me quiso morder
+## Me quiso morder
 
 Me cayó el animal, rebotó en mi acabeza y terminó en el piso. Trató de levantarse y morderme pero también estaba desorientado. Se le doblaron las patas. Se abrió una puerta de su casa y salieron a socorrerlo. Nadie me miró. Así que luché por no desmayar y regresar por esa calle vacía en una mañana extrañamente soleada de invierno. 
 
