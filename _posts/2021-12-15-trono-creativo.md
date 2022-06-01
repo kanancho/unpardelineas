@@ -7,6 +7,8 @@ tags: [trabajandoencasa,homeoffice,zoom,newnormal]
 image: assets/images/5.jpg
 ---
 
+# Mi trono, ¡detonador creativo!
+
 Qué difícil se me hace sentarme frente al computador y escribir. Por el contrario, que fácil es ahora hacerlo en el trono y avanzar con apuntes principales.
 
 ¿Será la soledad, la ausencia de pedidos de mi pequeño o el muro que me separa del mundo?
