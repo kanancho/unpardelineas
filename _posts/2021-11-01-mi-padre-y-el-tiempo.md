@@ -3,7 +3,7 @@ layout: post
 title:  "Mi padre y el tiempo"
 author: hernan
 categories: [ Inspiración ]
-tags: [ el mañana de hoy,familia nuclear ]
+tags: [ el mañana de hoy,familia nuclear, Día del padre ]
 image: "https://lh3.googleusercontent.com/-rPPCtLMvK-g/YM9Nq3g6t0I/AAAAAAABgEk/H7eKlmlQ0ZIJ94T0hItU2HUeN9PKGOApQCLcBGAsYHQ/s1600/1624198571054705-0.png"
 beforetoc: "Escrito en el 2016 prepandemia al amanecer, como siempre puntual, sin recurrir a la alarma del reloj."
 toc: true
