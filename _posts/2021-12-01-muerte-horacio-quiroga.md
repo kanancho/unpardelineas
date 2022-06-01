@@ -2,7 +2,7 @@
 layout: post
 title:  "La vida a través de la muerte"
 author: hernan
-categories: [ Curiosidades ]
+categories: [ Artes ]
 tags: [fabuloso,libro,muerte,vida,horacio,quiroga,hernangarciaval]
 image: assets/images/1.jpg
 ---
