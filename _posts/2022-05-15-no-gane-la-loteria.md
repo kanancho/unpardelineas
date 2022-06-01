@@ -8,6 +8,8 @@ image: assets/images/2.jpg
 rating: 4.5
 ---
 
+# El día que no gané la lotería
+
 Es increíble. Mi amiga trabajaba en el Ministerio de la Mujer en el jirón Lampa del centro de Lima. Ese viernes fui a su encuentro, llegué puntual pero como ella iba a demorar en salir, aproveché para comprar un par de galletas como quien pasa el rato.
 
 En la puerta de la tienda en Jr. Lampa 69X, brillaba un módulo de plástico naranja de la lotería electrónica de moda. En ese momento me sentía con una súper vibra así que me acerqué a adquirir un boleto. Ya eran más de las 6pm por lo que solo me quedaba pedir un número al azar. Antes de abrir la boca para soltar mi pedido, sonó mi celular, llamada que atendí presuroso por lo que dejé pasar al que seguía en la cola.
