@@ -9,7 +9,7 @@ beforetoc: "Con esta frase, la ahora antigua vecina de Mangomarca, nos explica q
 toc: true
 ---
 
-## Geidi en el Pueblo del Señor
+# No sabía que existía Mangomarca
 
  > “Yo no sabía que existía Mangomarca. Yo estaba postulando para trabajar en una central telefónica en Miraflores, cuando me dicen que ese puesto ya estaba ocupado. Me dijeron que no me desanime porque ya sabían dónde vivía y me propusieron ir a trabajar a Mangomarca, >>
 
