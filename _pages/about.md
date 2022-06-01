@@ -15,4 +15,4 @@ Para no olvidarme de mi vida, se me ocurrió tener un blog y encontré que podí
 Y aquí estamos
 [www.unpardelineas.com](www.unpardelineas.com)
 
-> "Hernán, por favor, un par de líneas" sobre Kuwait, para un gion o artículo, para el discurso del gran jefe. Un par de líneas, son las palabras que detonaban un fabuloso mundo por explorar. En un par de líneas, lo interesante es simple. Así fue, es y será. 
+> "Hernán, por favor, un par de líneas" sobre Kuwait (el primer pedido que tuveo, según recuerdo), sobre bicicletas antiguas, sobre plagas. Ya sea para un gion o artículo, para el discurso del gran jefe. Un par de líneas, son las palabras que detonan un fabuloso mundo por explorar. En un par de líneas, lo interesante es simple. Así fue, es y será. 
