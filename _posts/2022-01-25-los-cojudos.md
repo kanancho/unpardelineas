@@ -9,7 +9,9 @@ beforetoc: "Desde hace muchos años, hojeo Los Cojudos y busco el origen de cada
 toc: true
 ---
 
-# Primer cojudeo
+# Los cojudos de don Sofo
+
+## Primer cojudeo
 > Entre nosotros la palabra *cojudo* se ha sublimado hasta alcanzar niveles sensoriales y características de ser vivo. Aquí en el Perú la cojudez se respira, se huele, tiene color y temperatura, dimensión, forma y hasta sabor, diría. Se lanza un *Cojudo* al aire y es como si el idioma pusiera un huevo o pariera un *algo* capaz de hablar, moverse, crecer y multiplicarse en miles de miles de otros «cojudos» polimorfos.
 
 > Porque entre nosotros cojudo es el que hace y el que no hace, el que actúa y el que se paralogiza, el que toma decisiones y el que no asume responsabilidades, el que muere y el que vive, el que acepta y el que niega, como lo es también el que claudica y el que no se rinde. 
