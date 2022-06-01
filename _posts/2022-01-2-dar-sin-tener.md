@@ -2,7 +2,7 @@
 layout: post
 title:  "Uno puede dar lo que no tiene"
 author: hernan
-categories: [ Inspiracion ]
+categories: [ Inspiración ]
 tags: [felicidad,motivacion,dar,hernangarciaval]
 image: assets/images/7.jpg
 ---
