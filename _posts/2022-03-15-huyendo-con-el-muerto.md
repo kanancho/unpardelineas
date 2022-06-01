@@ -10,9 +10,9 @@ toc: true
 ---
 > La quebrada San Ildefonso colapsó por las fuertes lluvias de El Niño costero, rompió el dique de Mampuesto, cruzó el cementerio del mismo nombre he inundó el centro histórico y varias urbanizaciones. El Comercio, 15/03/19
 
-La resaca del desborde dejó las calles húmedas, con sacos de arena en las puertas, edificios y casas marcadas con barro hasta unos 30 centímetros de altura.
+# Huyendo con el Muerto
 
-# Desborde popular
+La resaca del desborde dejó las calles húmedas, con sacos de arena en las puertas, edificios y casas marcadas con barro hasta unos 30 centímetros de altura.
 
 Sin embargo, dos días después tuvimos una mañana hermosa y soleada, parecía que todo había quedado atrás. En unas horas yo retornaría a Lima y Maca haría lo propio al día siguiente.
 
@@ -24,7 +24,7 @@ La ciudad estaba en pánico, una vez más, en menos de una semana, la quebrada S
 
 Salimos corriendo hacia el hotel pero a 100 metros el agua sucia, que llegaba con barro, palos y desperdicios, nos cerró el paso. Doblamos a la izquierda intentando no detenernos. 
 
-# El muerto
+## El muerto
 Frente a una fachada adornada con flores blancas descansaba una carroza fúnebre, abrí la puerta detrás del piloto y le pedí a Maca que se apure en subir. Adentro, sorprendimos al chofer y los cargadores vestidos de frac que consternados nos gritaban asustados, pensaban que era un asalto. Yo solo repetí, "el huayco, el huayco, arranca". (Ver foto).  
 
 Metió la llave y la giró de inmediato, tan rápido que el motor del cacharro saltó y empezó a temblar. Este armatoste tenía unos 50 años, un Station Wagon que rodaba sus últimos metros llevando un cuerpo inerte. 
@@ -51,14 +51,14 @@ Al rato, bajó un poco la intensidad y la altura del desborde así que decidí a
 
 Alcancé a bajar mis cosas y subir al taxi. El aeropuerto estaba al norte, a unos 30 minutos de distancia en situaciones normales. Versiones de nuevos desbordes recorrían las calles. Avanzamos a 20 k/h por una avenida hasta que las inundaciones nos llevaron a entrar a las calles, muchas de ellas bloqueadas en varios tramos con sacos de arena. 
 
-# En el agua
+## En el agua
 En una urbanización tuvimos que retroceder a toda la velocidad que pudimos porque estaban reventando las lunas de los coches para robar. 
 
 Don Ricardo quiso tirarse para atrás cuando su nave comenzó a sumergirse, vi por la ventana que el agua cubría casi toda la llanta. Le recordé que no teníamos a donde regresar y que adelante había zonas más altas. Se animó. 
 
 Podíamos escuchar cómo las latas, troncos y otros objetos rozaban la parte baja del carro. Cuando este sonido desapareció, algo de tranquilidad se vio en el rostro del chofer. 
 
-# Se va el avión
+## Se va el avión
 
 Habían pasado como dos horas, ya anochecía era la hora de salida de mi vuelo. Dejé de contestar los mensajes de mi flaca, no podía seguir mintiendo, cuando a lo lejos pude ver el aeropuerto, como a unos 500 metros. Ahí el vehículo se detuvo, una vez más la desesperación había hecho de la suya. Anudados, enredados, abrazados, decenas de automóviles congelados por el miedo no avanzaban ni retrocedían. 
 
@@ -74,7 +74,7 @@ Cuando me iban a detener, cuando tocaron mi cuerpo, una voz femenina gritó mi n
 
 Se me abre el camino entre el tumulto que espera traspasar el *gate* como yo lo estaba haciendo. Ya estoy adentro, corriendo agitado subiendo al avión. Escucho al piloto dudar al ver aguas turbias en la pista, pero anuncia que *ya estamos listo para partir*. 
 
-# Vuela hasta perderte
+## Vuela hasta perderte
 La nave del vuelo 2207 se elevó y cerraron el aeropuerto. Se armó el despelote entre pasajeros y empleados cuando todo se cubrió de tinieblas. El agua negra rodeó el complejo e inundo las pistas. La lluvia y los truenos acompañaron la noche oscura. 
 
 Desde ese momento, ciudad quedó sitiada por diez días. Maca no pudo salir al día siguiente como estaba programado. Tuvo que quedarse más de una semana junto a otros compañeros en el hotel, sin luz, agua y poca alimentación. 
