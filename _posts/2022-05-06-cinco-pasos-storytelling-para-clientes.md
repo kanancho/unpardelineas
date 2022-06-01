@@ -8,6 +8,9 @@ image: assets/images/220506-storytelling-en-cinco-pasos.jpg
 beforetoc: "El storytelling es el armar historias convincentes que conecten con tus clientes."
 toc: true
 ---
+
+# Cinco pasos para hacer un Storytelling que cautive a tus clientes
+
 Es esencial que empatices con tus clientes y viceversa. Para ello, ¡contamos historias! Creamos historias para el público en general y nuestros clientes o caseros. 
 
 Esto se llama Storytelling y, gracias a una publicación de @marcoeyzaguirre en su cuenta de Twitter, aprenderemos a aplicar hoy.
