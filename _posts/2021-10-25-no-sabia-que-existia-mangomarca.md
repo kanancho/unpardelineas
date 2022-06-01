@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Yo no sabía que existía Mangomarca."
+title:  "Yo no sabía que existía Mangomarca"
 author: hernan
 categories: [ Inspiración ]
 tags: [ Mangomarca,panadería,Geidi Miranda Cuadrao,Ruricancho,Ichma,centro comunitario de telefonía,los ochenta ]
