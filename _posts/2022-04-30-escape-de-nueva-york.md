@@ -7,10 +7,11 @@ tags: [viaje,vuelo,tormenta,emergencia,nuevayork,houston]
 image: assets/images/14.jpg
 ---
 
-# Escape de Nueva York
-
 Cuando la *Gran Manzana* se preparaba para recibir una tormenta invernal que iba a paralizar la ciudad, yo viajaba a esta tierras gringas.
 No lo pensé dos veces. Solo quería huir del verano atroz, en el que la abuelita de la oficina se negaba a prender el aire acondicionado.
+
+# Escape de Nueva York
+
 Fue una huida ágil, sin colas ni demoras crucé toda la ciudad, entré al aeropuerto, chequeé mi boleto y encontré una sala de espera vacía. Esto es importante porque volaba con un boleto de los que tienen que esperar un cupo y no tuve que hacerlo, sobraban asientos en toda la aeronave. 
 
 Llegué al amanecer y me recogió Cesarín, salimos del aeropuerto y un helado viento me sacó de la modorra que me acompañaba desde Lima, ¿Qué pasó? Es la tormenta que se acerca, ¿Qué tormenta?
