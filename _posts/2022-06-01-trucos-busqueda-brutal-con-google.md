@@ -11,6 +11,7 @@ image: assets/images/220601-busqueda-brutal-google.png
 
 # 10 trucos para tu búsqueda brutal en Google
 
+
 ## 1- Filetype
 Busca archivos descargables directamente en google
 
