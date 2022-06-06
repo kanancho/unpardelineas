@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "10 trucos para tu búsqueda brutal en Google"
+title:  "10 trucos para tu búsqueda efectiva en Google"
 author: hernan
 categories: [ Herramienta, marketing ]
 tags: [ tarea,estudio,investigar,colegio,google ]
